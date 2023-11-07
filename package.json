@@ -1,7 +1,7 @@
 {
   "name": "projekt-3a",
   "version": "0.1.0",
-  "homepage": "https://JurajSala.github.io/project-3a",
+  "homepage": "https://JurajSala.github.io/blog1",
   "private": true,
   "dependencies": {
     "axios": "^1.6.0",
