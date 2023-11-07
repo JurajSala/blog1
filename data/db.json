@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "novaPosta",
+      "datetime": "November 07 , 2023 5:00:27 PM",
+      "body": "novaPostanovaPostanovaPostanovaPostanovaPostanovaPostanovaPosta\n"
+    },
+    {
+      "id": 3,
+      "title": "jak se masj",
+      "datetime": "November 07 , 2023 5:04:31 PM",
+      "body": "dobredobredobre"
+    }
+  ]
+}
